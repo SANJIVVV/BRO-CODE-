@@ -7,3 +7,4 @@ class Solution:
                  nums[left] = nums[right]
                  left += 1
         return left
+
