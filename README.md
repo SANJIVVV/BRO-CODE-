@@ -6,10 +6,12 @@ LeetCode Journey
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
@@ -18,6 +20,7 @@ LeetCode Journey
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
