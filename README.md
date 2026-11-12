@@ -42,4 +42,20 @@ LeetCode Journey
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0292-nim-game) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
