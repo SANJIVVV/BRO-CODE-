@@ -21,6 +21,7 @@ LeetCode Journey
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
@@ -58,4 +59,12 @@ LeetCode Journey
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
