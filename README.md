@@ -22,6 +22,7 @@ LeetCode Journey
 | ------- |
 | [0013-roman-to-integer](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
@@ -67,4 +68,12 @@ LeetCode Journey
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SANJIVVV/BRO-CODE-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
